@@ -1,0 +1,39 @@
+.inputScreens{
+    /* padding: 10px 0px; */
+    /* margin-bottom: 20px; */
+    border-radius: 5px;
+    font-family: 'Space Mono';
+    width: 100%;
+    text-align: left;
+}
+
+.inputScreens label{
+    padding: 10px 0px;
+}
+
+.inputScreens .myInput{
+    position: relative;
+}
+
+.inputScreens input{
+    border:none; 
+    background-color:hsl(189, 41%, 97%); 
+    display:block; 
+    width: 90%; 
+    box-sizing: border-box; 
+    text-align: right;
+    font-family: 'Space Mono';
+    border-radius: 5px;
+    font-size: 15px;
+    color: hsl(184, 14%, 56%);
+    padding: 5px;
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+.inputScreens img{
+    position: absolute; 
+    top: 5px; 
+    left: 10px;
+    height: 50%;
+}

@@ -1,0 +1,10 @@
+.LeftSide{
+    width: 100%;
+    text-align: left;
+    color: hsl(186, 14%, 43%);
+    font-size: 12px;
+}
+
+.row{
+    display: flex;
+}

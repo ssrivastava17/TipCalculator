@@ -1,0 +1,16 @@
+
+.wrapper{
+    width: 540px;
+    /* height: 250px; */
+    padding: 20px;
+    border-radius: 10px;
+    background-color: hsl(0, 0%, 100%);
+    font-family: 'Space Mono';
+    color: hsl(189, 41%, 97%);
+    display: flex;
+
+}
+
+.half{
+    width: 500%;
+}
